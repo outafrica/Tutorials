@@ -5,4 +5,4 @@ My first git tutorial
 Just a hint of progress
 
 ........76%............
-Branch update
+Paper, Rock, Scissors
